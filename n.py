@@ -3,7 +3,7 @@ import wikipedia
 
 from aiogram import Bot, Dispatcher, executor, types
 
-API_TOKEN = '1875124545:AAEMW0TgBXqGEGycf-JWWMN4snVYKAVjLwE'
+API_TOKEN = 'Singiz Token'
 wikipedia.set_lang('uz')
 
 # Configure logging
